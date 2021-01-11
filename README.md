@@ -8,3 +8,6 @@
 
 * receiver1try ve sender1try ESP8266 lolin modüllerinin birbirleri ile haberleşmesi örneği sender olan esp içine haberleşme için receiver olarak kullanılan esp'nin mac adresi sender içinde tanımlanır. Bu örnekte com üzerinden veri okunmakta, kodu yüklediğin porta receiver1try.ino yüklü olan espyi taktığında senderdan gönderilen sonuçları alabiliyorsun. Ancak mevcut tanımlı olan porta senderın yüklü olduğu espyi takarsan serialMonitor üzerinde yalnızca "Delivery succes" çıktısı olmakta. Cihazları çalıştırmadan önce mac adreslerini öğren ve not al . Kodda kular olarak 0xFF gibi bir tanımlama var FF olan kısmı kendi mac adreini uyarla.
 
+* Arduino ve ESP haberleşmesinde https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemcu-to-arduino-17d47a# buradan yararlandım. Arduinoyu tak Araçlar kısmından karı ve portu seç ve yükle. ESP yi başka bir porta tak Araçlar-Kart kısmından değiştir ve yükle daha sonra espnin portunda gelen veriler okunuyor.
+
+
