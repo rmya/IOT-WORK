@@ -7,8 +7,8 @@
 
 //ağ bilgilerinizi girin
 #ifndef STASSID
-#define STASSID "Superbox_WiFi_F833"
-#define STAPSK  "YHJ34RDD32J"
+#define STASSID "************"
+#define STAPSK  "********"
 #endif
 
 const char* ssid = STASSID;
