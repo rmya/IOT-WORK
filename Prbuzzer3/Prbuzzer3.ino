@@ -1,3 +1,5 @@
+//Sürekli ses çıkarıyor hassasiyet ayarı yapılması lazım
+
 int sensor = D1;
 int led = D2;
 int buzzer = D5;
