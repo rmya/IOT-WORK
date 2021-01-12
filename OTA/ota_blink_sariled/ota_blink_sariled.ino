@@ -7,8 +7,8 @@
 #include <ArduinoOTA.h>
 
 //ağ bilgilerinizi girin
-const char* ssid = "Superbox_WiFi_F833";
-const char* password = "YHJ34RDD32J";
+const char* ssid = "*********";
+const char* password = "*********";
 
 //Millis fonksiyonu ile ledi yakıp söndüreceğiz çünkü delay kullanırsak kod duracağı için yeni kod atarken sorun olacaktır.
 const int led = D1; // Ledimizi bağlayacağımız pini tanımladık
