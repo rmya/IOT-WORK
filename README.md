@@ -10,4 +10,6 @@
 
 * Arduino ve ESP haberleşmesinde https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemcu-to-arduino-17d47a# buradan yararlandım. Arduinoyu tak Araçlar kısmından karı ve portu seç ve yükle. ESP yi başka bir porta tak Araçlar-Kart kısmından değiştir ve yükle daha sonra espnin portunda gelen veriler okunuyor.
 
+* OTA https://www.youtube.com/watch?v=wOLEQ50x_BU&feature=youtu.be bu kanaldan yararlandım. Önce BasicOto üzerinde kendi ağına göre /ağ adı, şifre/ değişiklik yap. Sisteminde python yüklü olduğundan emin ol. python 3.8 de sorunlu çalışıyorui, ben 3.7 üzerinde denedim sorun çıkmadı. BasicOto kodunu doğru  port ve kartı seçtikten sonra yükle. Daha sonra bağlı olan esp yi çıkartıp harici bir güce bağlamak daha kullanışlı. Daha sonra ledblinklerden istediğini aç, onda da ağ bilgileri değişikliği yap.Daha sonra Port/Ağ portları kısmından espIP si tanımlı olanı seç ve yükle.İlk yüklemede python için izin isteyecek o yüzden ilk hatalı olabilir. izin verdikten sonra  kapatıp yeniden yükle.
+
 
