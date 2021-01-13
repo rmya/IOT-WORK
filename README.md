@@ -14,4 +14,7 @@
 --> https://www.hakankaya.kim/blog/esp8266-01-ota-update/
 --> https://lastminuteengineers.com/esp32-ota-web-updater-arduino-ide/
 
+* PIR Hareket algılama sensörünün üzerindeki yıldız tornavida girişli olan turuncu kareler(trimport) ile hassasiyet ve mesafe ayarı yapılabilir.
+--> https://hayaletveyap.com/arduino-pir-hareket-sensoru-hcsr501-kullanimi/
+
 
