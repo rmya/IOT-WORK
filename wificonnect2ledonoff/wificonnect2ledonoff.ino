@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 // Add wifi access point credentiaals
-const char* ssid     = "*****************";     //your wifi name
-const char* password = "*********************";     //your password
+const char* ssid     = "******";     //your wifi name
+const char* password = "*******";     //your password
 
 WiFiServer server(80);// Set port to 80
 
