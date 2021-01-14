@@ -17,4 +17,6 @@
 * PIR Hareket algılama sensörünün üzerindeki yıldız tornavida girişli olan turuncu kareler(trimport) ile hassasiyet ve mesafe ayarı yapılabilir.
 --> https://hayaletveyap.com/arduino-pir-hareket-sensoru-hcsr501-kullanimi/
 
+* Uno -Esp-Web dosyasında DHT22 sensörden arduino Uno ile alınan veri serial comminication SoftwareSerial küyüphanesi ile ESP8266 içerisine gönderip Web üzürinden sıcaklık değerini görmek amaçlanmıştır. Ancak espninin seri portta gösterdiği deger ?48 gibiyken webde 48 anca soğru sıcaklık 21.0 dir.Sorun çüzülemedi ilerleyen zamanlarda tekrarşu sayfadaki json olarak gönderme işlemine bakılacak:
+--> https://engineeringprojectshub.com/serial-communication-between-nodemcu-and-arduino/
 
