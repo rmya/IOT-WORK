@@ -4,8 +4,8 @@
 SoftwareSerial espSerial(D6,D5);
 
 // Add wifi access point credentiaals
-const char* ssid     = "NisanYD";     //your wifi name
-const char* password = "Gelidonya20*";     //your password
+const char* ssid     = "**********";     //your wifi name
+const char* password = "***********";     //your password
 
 WiFiServer server(80);// Set port to 80
 
